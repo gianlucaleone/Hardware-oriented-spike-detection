@@ -25,14 +25,14 @@ It is designed both for algorithm exploration and for preparing hardware-compati
 6. **Thresholding & detection**  
    Window-based threshold computation and spike extraction, both mean-value and RMS-value based.
 
-7. **Refractory period** 
-   Ignore detections for a few samples after each spike.
+7. **Refractory period**  
+Ignore detections for a few samples after each spike.
 
 8. **Accuracy evaluation**  
-   True Positive/False Positive/False Negative computation within a certain tolerance window.
+   True Positive, False Positive, and False Negative computation within a certain tolerance window.
 
 9. **Hardware test export**  
-   Generation of text files containing input/output/internal signals for FPGA/ASIC tests.
+   Generation of text files containing input, output, and internal signals for FPGA/ASIC tests.
 
 ---
 
