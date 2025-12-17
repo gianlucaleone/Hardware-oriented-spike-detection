@@ -37,3 +37,12 @@ Ignore detections for a few samples after each spike.
 ---
 
 Use this notebook as a compact reference for developing real-time spike detection algorithms and validating hardware implementations.
+
+Please, cite this work referring to my PhD thesis:
+
+@article{leone2023integrating,
+  title={Integrating biological and artificial neural networks processing on fpgas},
+  author={Leone, Gianluca},
+  year={2023},
+  publisher={Università degli Studi di Cagliari}
+}
